@@ -1,0 +1,134 @@
+{
+    "books": [
+        {
+            "id": 0,
+            "benefit": "程黎明",
+            "title": "单孔胸腔镜切除复杂的纵膈囊肿",
+            "cover": "/static/img/1.jpg",
+            "content":
+                "http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8"
+        },
+        {
+            "id": 1,
+            "benefit": "医术网",
+            "title": "胆总管胆囊结石",
+            "cover": "/static/img/2.jpg",
+            "content": "http://live.mastvnet.com/n1rtlHG/500/live.m3u8"
+        },
+        {
+            "id": 2,
+            "benefit": "小医",
+            "title": "腹腔镜下盆腔深部子宫内膜异位症",
+            "cover": "/static/img/3.jpg",
+            "content": "http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
+        },
+        {
+            "id": 3,
+            "benefit": "张教授",
+            "title": "三叉神经痛",
+            "cover": "/static/img/4.jpg",
+            "content":
+                "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
+        },
+        {
+            "id": 4,
+            "benefit": "医术网",
+            "title": "胆总管胆囊结石",
+            "cover": "/static/img/2.jpg",
+            "content": "http://live.mastvnet.com/n1rtlHG/500/live.m3u8"
+        },
+        {
+            "id": 5,
+            "benefit": "小医",
+            "title": "腹腔镜下盆腔深部子宫内膜异位症",
+            "cover": "/static/img/3.jpg",
+            "content": "http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
+        },
+        {
+            "id": 6,
+            "benefit": "张教授",
+            "title": "三叉神经痛",
+            "cover": "/static/img/4.jpg",
+            "content":
+                "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
+        },
+        {
+            "id": 7,
+            "benefit": "医术网",
+            "title": "胆总管胆囊结石",
+            "cover": "/static/img/2.jpg",
+            "content": "http://live.mastvnet.com/n1rtlHG/500/live.m3u8"
+        },
+        {
+            "id": 8,
+            "benefit": "小医",
+            "title": "腹腔镜下盆腔深部子宫内膜异位症",
+            "cover": "/static/img/3.jpg",
+            "content": "http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
+        },
+        {
+            "id": 9,
+            "benefit": "张教授",
+            "title": "三叉神经痛",
+            "cover": "/static/img/4.jpg",
+            "content":
+                "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
+        },
+        {
+            "id": 10,
+            "benefit": "医术网",
+            "title": "胆总管胆囊结石",
+            "cover": "/static/img/2.jpg",
+            "content": "http://live.mastvnet.com/n1rtlHG/500/live.m3u8"
+        },
+        {
+            "id": 11,
+            "benefit": "小医",
+            "title": "腹腔镜下盆腔深部子宫内膜异位症",
+            "cover": "/static/img/3.jpg",
+            "content": "http://ivi.bupt.edu.cn/hls/cctv5hd.m3u8"
+        },
+        {
+            "id": 12,
+            "benefit": "张教授",
+            "title": "三叉神经痛",
+            "cover": "/static/img/4.jpg",
+            "content":
+                "http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8"
+        }
+    ],
+    "practices": [
+        {
+            "book_id": 1,
+            "user_id": 1001,
+            "title": "胆总管胆囊结石",
+            "count_total": 125,
+            "count_today": 58,
+            "target_today": 18
+        },
+        {
+            "book_id": 2,
+            "user_id": 1001,
+            "title": "腹腔镜下盆腔深部子宫内膜异位症",
+            "count_total": 80,
+            "count_today": 60,
+            "target_today": 200
+        },
+        {
+            "book_id": 3,
+            "user_id": 1002,
+            "title": "三叉神经痛",
+            "count_total": 65,
+            "count_today": 20,
+            "target_today": 30
+        },
+        {
+            "book_id": 4,
+            "user_id": 1001,
+            "title": "PCI手术",
+            "count_total": 165,
+            "count_today": 50,
+            "target_today": 80
+        }
+    ]
+}
